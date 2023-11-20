@@ -61,7 +61,7 @@ public class Main {
                     session = sessions[1]
                     break;
                 case "3":
-                    session sessions[ 2]
+                    session = sessions[ 2]
                     break;
                 default:
                     System.out.println("Id inváldo");
